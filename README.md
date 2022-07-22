@@ -1,14 +1,10 @@
-## Hi! I'm Jefferson Martines 👋
-
-- 🔭 I'm a database and backend developer
-- 🌱 Studying python and javascript
-
+## Hi! I'm Jefferson Martines, a database and backend developer 👋
 <div align="center">
   <a href="https://github.com/JeffersonRPM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffersonRPM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRPM&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=JeffersonRPM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRPM&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Jeff-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Jeff-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
