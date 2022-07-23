@@ -1,4 +1,4 @@
-## Hi! I'm Jefferson Martines, a database and backend developer 🖥️🖱️
+## Hi! I'm Jefferson Martines, a database and back-end developer 🖥️🖱️
 <div align="center">
   <a href="https://github.com/JeffersonRPM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffersonRPM&show_icons=true&theme=dracula&count_private=true"/>
