@@ -1,7 +1,7 @@
 ## Hi! I'm Jefferson Martines, a database and backend developer 🖥️🖱️
 <div align="center">
   <a href="https://github.com/JeffersonRPM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffersonRPM&show_icons=false&theme=dracula&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffersonRPM&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRPM&layout=compact&langs_count-16&theme=dracula"/>
 </div>
   
