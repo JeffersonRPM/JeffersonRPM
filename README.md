@@ -1,4 +1,4 @@
-## <div aligh="center"> Be welcome and enjoy! I'm Jefferson Martines, Full Stack Developer. 🖥️🖱️ </div>
+## Be welcome and enjoy! I'm Jefferson Martines, Full Stack Developer. 🖥️🖱️
 <div align="center">
   <a href="https://github.com/JeffersonRPM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffersonRPM&show_icons=true&theme=dracula&count_private=true"/>
@@ -21,9 +21,9 @@
 </div>
   
   ##
-<br>  
+  
 <div> 
-  <a href="https://www.linkedin.com/in/jeffersonrpm/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jeffersonrpm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
  
