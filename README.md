@@ -1,9 +1,9 @@
 ## <p align="center">Be welcome and enjoy! I'm Jefferson Martines, Full Stack Developer. 🖥️🖱️</p>
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/JeffersonRPM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonrpm&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRPM&layout=compact&langs_count-16&theme=dracula"/>
-</div> -->
+</div>
   
 <div style="display: inline_block"><br>
 <p align="center">
