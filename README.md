@@ -8,7 +8,7 @@
   <img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRPM&layout=compact&langs_count-16&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br><br>
 <p align="center">
   <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jeff-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
