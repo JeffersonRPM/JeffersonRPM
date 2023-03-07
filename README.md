@@ -10,6 +10,7 @@
   </div> 
     
   <br>
+  <br>
   
   <div style="display: inline_block">
     <p align="center">
@@ -33,6 +34,7 @@
   </div>
 </a> 
 
+<br>
 <br>
   
 <div> 
