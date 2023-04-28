@@ -1,3 +1,5 @@
+<meta description="I will gave your some tip. If you add meta tag like this, you can be searched very well. you will get follower more.">
+<meta description="If you are interested in, please contact me. my gmail is athenaweb629@gmail.com. I have some question. thank you">
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
