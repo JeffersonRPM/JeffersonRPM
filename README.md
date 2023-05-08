@@ -78,7 +78,7 @@
   
 <div> 
   <p align="center">
-    <a href="https://www.linkedin.com/in/jeffersonrpm/"><img height="30" width="135" title="linkedin.com/in/jeffersonrpm" src="./img/linkedin.png">
+    <a href="https://www.linkedin.com/in/jeffersonrpm/"><img height="35" width="140" title="linkedin.com/in/jeffersonrpm" src="./img/linkedin.png">
     </a>
   </p>
 </div>
