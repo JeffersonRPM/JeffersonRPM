@@ -87,4 +87,10 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
 </a>
 
-![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
+<div> 
+  <p align="center">
+    <a href="#"><title="Snake animation" src="./img/snake.svg">
+    </a>
+  </p>
+</div>
+
