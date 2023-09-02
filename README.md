@@ -49,6 +49,7 @@
     <a href="#">
       <img align="center" alt="Logo do Next.js" height="30" width="40" title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
     </a>
+    <br><br>
     <a href="#">
       <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
