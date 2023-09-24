@@ -1,4 +1,4 @@
-<meta name="description" content="GitHub profile in green color">
+<meta name="description" content="GitHub profile in blue color">
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
 
 <a href="#">
