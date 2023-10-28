@@ -28,7 +28,7 @@
     <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="./img/bootstrap.svg">
     <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="./img/python.svg">
     <br><br>
-    <img align="center" alt="Logo do C#" height="30" width="40" title="C#" src="./img/c#.svg">
+    <img align="center" alt="Logo do C#" height="30" width="40" title="C#" src="./img/csharp.svg">
     <img align="center" alt="Logo do C++" height="30" width="40" title="C++" src="./img/c++.svg">
     <img align="center" alt="Logo do C" height="30" width="40" title="C" src="./img/c.svg">
     <img align="center" alt="Logo do Java" height="30" width="40" title="Java" src="./img/java.svg">
