@@ -38,6 +38,7 @@
    <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="./img/postgresql.svg">
    <img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="./img/mysql.svg"> 
    <img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="./img/mongodb.svg">
+   <img align="center" alt="Logo do Miro" height="30" width="40" title="Miro" src="./img/miro.svg">
 
    <br>
    <br>
