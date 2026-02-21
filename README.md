@@ -10,13 +10,14 @@
 
    <br>
 
+   <!--
    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeffersonrpm&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRPM&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
-    
+
    <br>
    <br>
    <br>
-   
+    -->   
    <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="./img/js.svg">
    <img align="center" alt="Logo do TypeScript" height="30" width="40" title="TypeScript" src="./img/ts.svg">
    <img align="center" alt="Logo do React" height="30" width="40" title="React" src="./img/react.svg">
